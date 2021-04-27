@@ -31,3 +31,4 @@
 3.  提交代码
 4.  新建 Pull Request
 ![](https://th.bing.com/th/id/R65398d6ad86129f9628c0ad80da4040c?rik=C3qNS9mZOQk%2b5A&riu=http%3a%2f%2fwww.shijuepi.com%2fuploads%2fallimg%2f200918%2f1-20091Q10420.jpg&ehk=QBNuJIbVP1qo%2bwUD3YzXcvL4H5iHivOHXUnzzRw%2bWfU%3d&risl=&pid=ImgRaw)
+![](https://t7.baidu.com/it/u=4198287529,2774471735&fm=193&f=GIF)    
