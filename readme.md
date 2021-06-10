@@ -30,6 +30,4 @@
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
-#  sh 程云博
-
-![](https://gitee.com/YunboCheng/imageBad/raw/master/img/20210428221604.png)  
+#  sh
