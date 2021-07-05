@@ -1,4 +1,5 @@
-﻿# JavaNode开源项目
+:zap:
+# JavaNode开源项目
 
 ![JavaSE](https://arquivo.devmedia.com.br/marketing/img/curso-curso-java-se-423.png)
 ## 项目介绍
